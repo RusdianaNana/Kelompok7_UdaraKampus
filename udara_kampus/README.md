@@ -23,8 +23,7 @@ Dibuat berdasarkan *Studi Kasus 13: Cuaca Kampus*, dengan data diganti ke **Open
 
 ## 🌐 Sumber data
 
-[Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api) (tanpa kunci API, lisensi CC BY 4.0).
-Sumber data juga ditulis di bagian bawah halaman aplikasi.
+[Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api) 
 
 ```
 GET https://air-quality-api.open-meteo.com/v1/air-quality
@@ -89,6 +88,7 @@ flutter run
 
 | Kota Jakarta | Mode gelap | Gagal terhubung |
 |:---:|:---:|:---:|
-| ![Jakarta](screenshots/jakarta.png) | ![Gelap](screenshots/gelap.png) | ![Galat](screenshots/galat.png) |
+| ![Jakarta](<img width="388" height="413" alt="image" src="https://github.com/user-attachments/assets/940ac5a9-b2e3-4b14-8e73-fb08abb5e90d" />
+) | ![Gelap](screenshots/gelap.png) | ![Galat](screenshots/galat.png) |
 
 > Letakkan hasil *screenshot* di folder `screenshots/` dengan nama di atas.
